@@ -1,1 +1,22 @@
-asdfasd
+#wrapper {
+    width:500px;
+    height:500px;
+    border:1px solid #000000;
+    margin: 10px auto 10px auto;
+}
+h1 {
+    text-align:center;
+}
+.column {
+    width:238px;
+    height:370px;
+    border:1px solid #000000;
+    margin: 5px;
+    float:left;
+}
+footer {
+    height: 30px;
+    border:1px solid #000000;
+    margin:5px;
+    clear:left;
+}
