@@ -12,13 +12,13 @@ h1 {
 .column {
     width:238px;
     height:370px;
-    border:1px solid #000000;
+    border:1px solid #D1660E;
     margin: 5px;
     float:left;
 }
 footer {
     height: 30px;
-    border:1px solid #000000;
+    border:1px solid #D1660E;
     margin:5px;
     clear:left;
 }
