@@ -9,6 +9,14 @@
 
 
 header.page h1:hover {color: #220022;}
+header .pages h1: hover {color: #FF8017;}
+
+header .pages{
+        margin-top:10px;
+        padding:10px;
+        border:1px;
+        text-align:center;
+}
 
 header.page{
     margin-top: 10px;
