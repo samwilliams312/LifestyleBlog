@@ -18,7 +18,7 @@ header.page{
 }
 
 article, aside {
-    float:left;
+    float: center;
 }
   
 nav {
