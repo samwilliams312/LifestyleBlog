@@ -40,6 +40,8 @@ a:active {color: #ABF000;}
 article {
     width: display;
     text-align: center;
+    font: 20px impact,sans-serif, color:#BC008D;
+    
 }
 
 aside li {
@@ -48,7 +50,7 @@ aside li {
 
 footer {
     clear:left;
-    border: 1px solid #222222;
+    border: 1px solid #FFFF00;
     text-align: center;
     margin: 10px;
     padding: 10px;
