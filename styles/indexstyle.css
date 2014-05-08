@@ -32,6 +32,7 @@ nav li {
 
 a:link {
     color: #FFF800;
+    font: 20px, impact;
 text-decoration: none;}
 a:hover {color: #aaa;}
 a:visited {color: #FFCE00;}
@@ -41,6 +42,7 @@ article {
     width: display;
     text-align: center;
     font: 20px impact,sans-serif, color:#BC008D;
+    background: solid, color: 5FD2B5;
     
 }
 
