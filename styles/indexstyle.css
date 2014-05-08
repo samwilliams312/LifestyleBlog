@@ -20,6 +20,10 @@ header.page{
 article, aside {
     float: center;
 }
+
+article {
+	font: 15px, arial, bold;
+}
   
 nav {
     text-align: center;
